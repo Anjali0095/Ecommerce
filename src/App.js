@@ -6,12 +6,8 @@ import Login from "./pages/Login";
 import Cart from "./pages/Cart";
 import Navbar from "./components/Navbar";
 
-
-
 const App = () => {
-  return(
-   <Home/>
-  ) 
-  };
+  return <Home />;
+};
 
- export default App;
+export default App;
